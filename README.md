@@ -28,4 +28,5 @@ Best Score Tracking: The game keeps track of the best (minimum) number of attemp
 
 
 ## Project Page URL: 
-https://github.com/Murtazagonhit10/CppUniverse/blob/main/Lucky_Guess_Arena.cpp
+[https://github.com/Murtazagonhit10/CppUniverse/blob/main/Lucky_Guess_Arena.cpp](https://roadmap.sh/projects/number-guessing-game)
+
